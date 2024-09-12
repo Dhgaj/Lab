@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Debug",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "${file}",
+      "stopOnEntry": true,
+      // "preLaunchTask": "Build",
+      "postDebugTask": "Clean",
+      "cwd": "${fileDirname}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
