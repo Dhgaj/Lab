@@ -1,6 +1,9 @@
 
 .DS_Store
-c.vscode/Icon?
-cpp.vscode/Icon?
-java.vscode/Icon?
-python.vscode/Icon?
+.DS_Store*
+Icon?*
+.settings/c.vscode/Icon?
+.settings/cpp.vscode/Icon?
+.settings/java.vscode/Icon?
+.settings/python.vscode/Icon?
+
